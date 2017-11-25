@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.KauppaTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-11-25T12:08:01" hostname="fuxi16" time="0.33">
+  <properties/>
+  <testcase name="kutsutaanPankkiaOikeallaTilinumerollaJaSummalla" classname="ohtu.KauppaTest" time="0.324"/>
+  <testcase name="pyydetaanUusiViiteJokaiseenMaksuun" classname="ohtu.KauppaTest" time="0.001"/>
+  <testcase name="kutsutaanPankkiaOikeallaTilinumerolla" classname="ohtu.KauppaTest" time="0.001"/>
+  <testcase name="kaytetaanMaksussaPalautettuaViiteta" classname="ohtu.KauppaTest" time="0.002"/>
+  <testcase name="kaytetaanPerakkaistenViitekutsujenArvoja" classname="ohtu.KauppaTest" time="0.001"/>
+  <testcase name="kutsutaanPankkia" classname="ohtu.KauppaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
